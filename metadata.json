@@ -1,0 +1,6 @@
+{
+  "name": "Paws & Care Veterinary Hospital",
+  "description": "Premium veterinary hospital website featuring compassionate pet care, an intuitive online booking demo, and a full-featured admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
