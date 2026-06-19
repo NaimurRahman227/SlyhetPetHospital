@@ -3,6 +3,9 @@ import path from "path";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import { createServer as createViteServer } from "vite";
+import dns from 'node:dns';
+
+dns.setServers(['8.8.8.8', '8.8.4.4']);
 
 dotenv.config();
 
